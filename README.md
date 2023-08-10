@@ -4,7 +4,7 @@
 
 My journey as a software engineer began in 2006 after graduating from Northeastern University. I've spent nearly two decades honing my craft and expanding my skillset, and still as passionate about programming as ever. Along the way, I've worked at several companies, big and small. I also have had two startups and learned a lot about the entrepreneurial mindset and spirit as well. Currently, I'm transitioning from being a full-stack developer to becoming a problem solver. In my free time, I'm learning about indie hacking and exploring new technologies, as I'm always up for a challenge and eager to learn more...
 
-Well, no more boasting! Here's a more in-depth overview of my skills and expertise:
+Well, no more boasting. Here's a more in-depth overview of my skills and expertise:
 
 - [LinkedIn](https://www.linkedin.com/in/xinwencheng)
 - [𝕏](https://twitter.com/captnotes)
