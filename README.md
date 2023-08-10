@@ -13,7 +13,7 @@ OK, no more boasting, below are my technical details if you're interested in it.
 
 ## Currently Working On
 
-- [DynamicIdeas](https://dynamicideas.ai): The official website which hosts all my software products.
+- [DynamicIdeas](https://dynamicideas.ai): The official website which hosts all my software products and services.
 - [ClearMyList](https://clearmylist.io): The next-generation personal time management solution.
 
 ## Current Tech Stack
