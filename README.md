@@ -29,9 +29,9 @@ Well, no more boasting! Here's a more in-depth overview of my skills and experti
 
 ## :sparkles: Fun Facts
 
-- I have several hours of flying a Cirrus SR-20, and I must be a certified jet pilot someday.
-- After around 1,000 movies watched, I went to Beijing Film Academy for more expertise. And now, I've watched more than 2,160 movies.
-- While the amount of books I read is increasing slower than movies', however, the number is just a number, the most important thing is to keep reading and thinking.
+- Flying a Cirrus SR-20 has been a dream come true, and I'm on my way to becoming a certified jet pilot.
+- I pursued my passion for film by attending the Beijing Film Academy after watching over 1,000 movies. I've watched over 2,160 movies now and continue to hone my expertise.
+- While my rate of reading books is slower than movies', the important thing is to keep learning and engaging with ideas. Numbers don't tell the whole story.
 
 ## :earth_americas: Want to Reach Me?
 
