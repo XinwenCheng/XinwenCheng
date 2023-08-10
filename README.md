@@ -1,4 +1,4 @@
-[<img src="./banner.jpg" alt="# 👋 Hi there! I'm Michael Cheng" title="# 👋 Hi there! I'm Michael Cheng"/>](https://twitter.com/captnotes)
+[<img src="./banner.jpg" alt="👋 Hi there! I'm Michael Cheng" title="👋 Hi there! I'm Michael Cheng"/>](https://twitter.com/captnotes)
 
 ## :technologist: About Me
 
