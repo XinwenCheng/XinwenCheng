@@ -36,3 +36,5 @@ OK, no more boasting, below are my technical details if you're interested in it.
 ## :email: Want to Reach Me?
 
 - [XinwenCheng@Live.com](mailto:XinwenCheng@Live.com?subject=Greeting%20from%20a%20GitHub%20user)
+
+<!-- Emoji icons: https://emojipedia.org -->
