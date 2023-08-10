@@ -11,6 +11,8 @@ Well, no more boasting. Here's a more in-depth overview of my skills and experti
 - [Medium](https://captnotes.medium.com)
 - _[Blog (in Simplified Chinese) - ARCHIVED](https://captnotes.github.io)_
 
+![](https://github-readme-stats.vercel.app/api?username=xinwencheng)
+
 ## :file_folder: Currently Working On
 
 - [Dynamic Ideas](https://dynamicideas.ai): The official website presents all of my indie hacking software products and services.
