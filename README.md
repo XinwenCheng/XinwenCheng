@@ -1,4 +1,4 @@
-[![👋 Hi there!](./banner.jpg)](https://twitter.com/captnotes)
+[![👋 Hi there!](./banner.gif)](https://twitter.com/captnotes)
 
 ## :technologist: About Me
 
