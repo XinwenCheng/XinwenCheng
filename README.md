@@ -11,11 +11,11 @@ Well, no more boasting. Here's a more in-depth overview of my skills and experti
 - [Medium](https://captnotes.medium.com)
 - _[Blog (in Simplified Chinese) - ARCHIVED](https://captnotes.github.io)_
 
-## :floppy_disk: GitHub Stats
+<!-- ## :floppy_disk: GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xinwencheng&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xinwencheng&layout=pie&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xinwencheng&layout=pie&theme=github_dark) -->
 
 ## :file_folder: Currently Working On
 
