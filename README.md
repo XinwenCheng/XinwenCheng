@@ -9,7 +9,7 @@ OK, no more boasting, below are my technical details if you're interested in it.
 - [LinkedIn](https://www.linkedin.com/in/xinwencheng)
 - [𝕏](https://twitter.com/captnotes)
 - [Medium - CaptNotes](https://captnotes.medium.com)
-- ~~[Blog (in Simplified Chinese) - ARCHIVED](https://captnotes.github.io)~~
+- _[Blog (in Simplified Chinese) - ARCHIVED](https://captnotes.github.io)_
 
 ## :file_folder: Currently Working On
 
@@ -24,8 +24,8 @@ OK, no more boasting, below are my technical details if you're interested in it.
 - MongoDB & Redis
 - Serverless (Google & Amazon)
 - Python
-- ~~Android & Java~~
-- ~~WeChat Mini App~~
+- _Android & Java_
+- _WeChat Mini App_
 
 ## :sparkles: Fun Facts
 
