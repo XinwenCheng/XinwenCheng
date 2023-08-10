@@ -5,7 +5,7 @@
 My journey as a software developer began in 2006 after graduating from Northeastern University. I've spent nearly two decades honing my craft and expanding my skillset, and still as passionate about programming as ever. Along the way, I've worked at several companies, big and small. I also have had two startups and learned a lot about the entrepreneurial mindset. Currently, I'm turning myself from a full-stack developer to a problem solver. In my free time, I'm learning about indie hacking and exploring new technologies, as I'm always up for a challenge and eager to learn more... OK, no more boasting, below are my technical details if you're interested in it.
 
 - :technologist: [LinkedIn](https://www.linkedin.com/in/xinwencheng)
-- :twitter: [Twitter](https://twitter.com/captnotes)
+- :bird: [𝕏 (Formerly Known as Twitter)](https://twitter.com/captnotes)
 - :globe_with_meridians: [Blog](https://captnotes.medium.com)
 - :file_cabinet: [Blog in Simplified Chinese - ARCHIVED](https://captnotes.github.io)
 
@@ -24,10 +24,6 @@ My journey as a software developer began in 2006 after graduating from Northeast
 - Python
 - Android & Java
 - WeChat Mini App
-
-## Looking For
-
-- Evaluating and fine-tuning [GTE](https://huggingface.co/thenlper/gte-base) on natural language to code search, such as CodeSearchNet. It's amazing at most things but not evaluated on code search.
 
 ## Fun Facts
 
