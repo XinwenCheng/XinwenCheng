@@ -33,7 +33,7 @@ OK, no more boasting, below are my technical details if you're interested in it.
 - After around 1,000 movies watched, I went to [Beijing Film Academy](https://eng.bfa.edu.cn) for more expertise. And now, I've watched more than 2,160 movies.
 - While the amount of books I read is increasing slower than movies', however, the number is just a number, the most important thing is to keep reading and thinking.
 
-## :email: Want to Reach Me?
+## :globe_showing_americas: Want to Reach Me?
 
 - [XinwenCheng@Live.com](mailto:XinwenCheng@Live.com?subject=Greeting%20from%20a%20GitHub%20user)
 
