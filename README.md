@@ -1,4 +1,4 @@
-[<img src="./banner.jpg" alt="👋 Hi there!" title="👋 Hi there!"/>](https://twitter.com/captnotes)
+[![👋 Hi there!](./banner.jpg)](https://twitter.com/captnotes)
 
 ## :technologist: About Me
 
