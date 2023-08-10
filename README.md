@@ -13,8 +13,8 @@ Well, no more boasting, below are my technical details if you're interested in i
 
 ## :file_folder: Currently Working On
 
-- [DynamicIdeas](https://dynamicideas.ai): The official website which hosts all my software products and services.
-- [ClearMyList](https://clearmylist.io): The next-generation personal time management solution.
+- [Dynamic Ideas](https://dynamicideas.ai): The official website which hosts all my software products and services.
+- [Clear My List](https://clearmylist.io): The next-generation personal time management solution.
 
 ## :hammer_and_wrench: Current Tech Stack
 
