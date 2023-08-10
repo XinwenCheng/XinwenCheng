@@ -1,5 +1,4 @@
-<!-- [![👋 Hi there!](./banner.jpg)](https://twitter.com/captnotes) -->
-<img src="./banner.gif" width="100%" alt="👋 Hi there!" title="👋 Hi there!" />
+[![👋 Hi there!](./banner.jpg)](https://twitter.com/captnotes)
 
 ## :technologist: About Me
 
