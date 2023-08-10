@@ -11,7 +11,7 @@ OK, no more boasting, below are my technical details if you're interested in it.
 - [Blog - CaptNotes](https://captnotes.medium.com)
 - [Blog (in Simplified Chinese) - ARCHIVED](https://captnotes.github.io)
 
-## :gear: Currently Working On
+## :file_folder: Currently Working On
 
 - [DynamicIdeas](https://dynamicideas.ai): The official website which hosts all my software products and services.
 - [ClearMyList](https://clearmylist.io): The next-generation personal time management solution.
