@@ -22,8 +22,7 @@ Well, no more boasting, below are my technical details if you're interested in i
 - Nuxt(Vue.js)
 - Flutter & Dart
 - MongoDB & Redis
-- Serverless (Google & Amazon)
-- GraphQL
+- Serverless & GraphQL
 - Python
 - _Android & Java_
 - _WeChat Mini App_
