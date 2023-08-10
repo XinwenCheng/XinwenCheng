@@ -7,9 +7,9 @@ My journey as a software developer began in 2006 after graduating from Northeast
 OK, no more boasting, below are my technical details if you're interested in it.
 
 - [LinkedIn](https://www.linkedin.com/in/xinwencheng)
-- [𝕏 (Formerly Known as Twitter)](https://twitter.com/captnotes)
-- [Blog - CaptNotes](https://captnotes.medium.com)
-- [Blog (in Simplified Chinese) - ARCHIVED](https://captnotes.github.io)
+- [𝕏](https://twitter.com/captnotes)
+- [Medium - CaptNotes](https://captnotes.medium.com)
+- ~~[Blog (in Simplified Chinese) - ARCHIVED](https://captnotes.github.io)~~
 
 ## :file_folder: Currently Working On
 
@@ -24,8 +24,8 @@ OK, no more boasting, below are my technical details if you're interested in it.
 - MongoDB & Redis
 - Serverless (Google & Amazon)
 - Python
-- Android & Java
-- WeChat Mini App
+- ~~Android & Java~~
+- ~~WeChat Mini App~~
 
 ## :sparkles: Fun Facts
 
