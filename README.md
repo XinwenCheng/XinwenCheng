@@ -11,6 +11,8 @@ Well, no more boasting. Here's a more in-depth overview of my skills and experti
 - [Medium](https://captnotes.medium.com)
 - _[Blog (in Simplified Chinese) - ARCHIVED](https://captnotes.github.io)_
 
+## :floppy_disk: GitHub Stats
+
 ![Capt. Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xinwencheng)
 
 ## :file_folder: Currently Working On
