@@ -13,7 +13,7 @@ Well, no more boasting. Here's a more in-depth overview of my skills and experti
 
 ## :floppy_disk: GitHub Stats
 
-![Capt. Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xinwencheng)
+![Capt. Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xinwencheng&show_icons=true&theme=holi)
 
 ## :file_folder: Currently Working On
 
