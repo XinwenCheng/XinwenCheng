@@ -8,7 +8,7 @@ OK, no more boasting, below are my technical details if you're interested in it.
 
 - [LinkedIn](https://www.linkedin.com/in/xinwencheng)
 - [𝕏](https://twitter.com/captnotes)
-- [Medium - CaptNotes](https://captnotes.medium.com)
+- [Medium](https://captnotes.medium.com)
 - _[Blog (in Simplified Chinese) - ARCHIVED](https://captnotes.github.io)_
 
 ## :file_folder: Currently Working On
