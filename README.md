@@ -35,4 +35,4 @@ OK, no more boasting, below are my technical details if you're interested in it.
 
 ## Want to Reach Me?
 
-- :email: Email: [XinwenCheng@Live.com](mailto:XinwenCheng@Live.com?subject=Greeting%20from%20a%20GitHub%20user)
+- :email: [XinwenCheng@Live.com](mailto:XinwenCheng@Live.com?subject=Greeting%20from%20a%20GitHub%20user)
