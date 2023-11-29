@@ -6,6 +6,7 @@ My journey as a software engineer began in 2006 after graduating from Northeaste
 
 Well, here's a more in-depth overview of my skills and expertise:
 
+- [Portfolio](https://CaptMichael.dev)
 - [LinkedIn](https://www.linkedin.com/in/xinwencheng)
 - [𝕏](https://twitter.com/captnotes)
 - [Medium](https://captnotes.medium.com)
