@@ -42,7 +42,7 @@ Well, here's a more in-depth overview of my skills and expertise:
 
 ## :earth_americas: Want to Reach Me?
 
-- [Email](mailto:XinwenCheng@Live.com?subject=Greeting%20from%20a%20GitHub%20user)
+- [Email](mailto:CaptMichaelDev@gmail.com?subject=Greeting%20from%20a%20GitHub%20user)
 
 <!-- Emoji icons: https://emojipedia.org -->
 <!-- Banner generator: https://fontmeme.com/text-generator -->
