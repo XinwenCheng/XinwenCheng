@@ -8,7 +8,7 @@ Well, here's a more in-depth overview of my skills and expertise:
 
 - [Portfolio](https://CaptMichael.dev)
 - [LinkedIn](https://www.linkedin.com/in/XinwenCheng)
-- [𝕏](https://twitter.com/CaptMichaelDev)
+- [𝕏 / Twitter](https://twitter.com/CaptMichaelDev)
 - [Medium](https://captnotes.medium.com)
 - _[Blog (in Simplified Chinese) - ARCHIVED](https://captnotes.github.io)_
 
