@@ -2,7 +2,7 @@
 
 ## :technologist: About Me
 
-My journey as a software engineer began in 2006 after graduating from Northeastern University. I've spent nearly two decades honing my craft and expanding my skillset, and still as passionate about programming as ever. Along the way, I've worked at several companies, big and small. I also have had two startups and learned a lot about the entrepreneurial mindset and spirit as well. Currently, I'm transitioning from being a full-stack developer to becoming a problem solver. In my free time, I'm learning about indie hacking and exploring new technologies, as I'm always up for a challenge and eager to learn more... Stop, no more boasting!
+As a seasoned software developer with almost 20 years of experience (since 2006), I'm now serving the industry as a freelance expert with a passion for problem-solving. I'm an award-winning software developer who takes pride in delivering high-quality and timely performance results and helping my clients WIN.
 
 Well, here's a more in-depth overview of my skills and expertise:
 
