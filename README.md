@@ -30,7 +30,7 @@ Well, here's a more in-depth overview of my skills and expertise:
 - Flutter & Dart
 - MongoDB & Redis
 - Serverless & GraphQL
-- Python
+- Python & FastAPI
 - _Android & Java_
 - _WeChat Mini App_
 
