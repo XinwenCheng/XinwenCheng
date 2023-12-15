@@ -10,7 +10,7 @@ Well, here's a more in-depth overview of my skills and expertise:
 - [LinkedIn](https://www.linkedin.com/in/XinwenCheng)
 - [𝕏 / Twitter](https://twitter.com/CaptMichaelDev)
 - [Medium](https://captnotes.medium.com)
-- _[Blog (in Simplified Chinese) - ARCHIVED](https://captnotes.github.io)_
+- _[Archived Blog (in Simplified Chinese)](https://captnotes.github.io)_
 
 <!-- ## :floppy_disk: GitHub Stats
 
