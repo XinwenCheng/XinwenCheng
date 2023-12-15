@@ -7,6 +7,7 @@ As a seasoned software developer with almost 20 years of experience (since 2006)
 Well, here's a more in-depth overview of my skills and expertise:
 
 - [Portfolio](https://CaptMichael.dev)
+- [Upwork](https://www.upwork.com/freelancers/~01eed6a13d9b28ab5d)
 - [LinkedIn](https://www.linkedin.com/in/XinwenCheng)
 - [𝕏 / Twitter](https://twitter.com/CaptMichaelDev)
 - [Medium](https://captnotes.medium.com)
