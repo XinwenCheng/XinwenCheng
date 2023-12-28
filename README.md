@@ -21,7 +21,7 @@ Well, here's a more in-depth overview of my skills and expertise:
 
 ## :file_folder: Currently Working On
 
-- [Dynamic Ideas](https://dynamicideas.ai): The official website presents all of my indie hacking software products and services.
+- [Dynamic Ideas (Coming soon)](https://dynamicideas.ai): The official website presents all of my indie hacking software products and services.
 - [Clear My List](https://clearmylist.io): The next-generation personal time management solution.
 
 ## :hammer_and_wrench: Current Tech Stack
