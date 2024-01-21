@@ -45,7 +45,7 @@ Well, here's a more in-depth overview of my skills and expertise:
 
 - [Email](mailto:CaptMichaelDev@gmail.com?subject=Greeting%20from%20a%20GitHub%20user)
 
-## :graduation_cap: Me on Daily.Dev
+## 🎓 Me on Daily.Dev
 
 <a href="https://app.daily.dev/captmichael"><img src="https://api.daily.dev/devcards/ec06c252421e46e78714a3afcecc65a6.png?r=deb" width="400" alt="Capt. Michael's Dev Card"/></a>
 
