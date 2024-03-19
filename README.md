@@ -37,8 +37,7 @@ Well, here's a more in-depth overview of my skills and expertise:
 - MongoDB & Redis
 - Serverless & GraphQL
 - Python & FastAPI
-- _Android & Java_
-- _WeChat Mini App_
+- WeChat Mini App
 
 ## :sparkles: Fun Facts
 
