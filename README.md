@@ -31,13 +31,17 @@ Well, here's a more in-depth overview of my skills and expertise:
 
 ## :hammer_and_wrench: Current Tech Stack
 
-- Next.js(React) & TypeScript
-- Nuxt(Vue.js)
-- Flutter & Dart
-- MongoDB & Redis
-- Serverless & GraphQL
-- Python & FastAPI
-- WeChat Mini App
+- Primary
+  - React & Next.js
+  - Vue.js & Nuxt
+  - Express & Node.js
+  - NPM Packages
+  - Flutter & Mobile APP
+  - MongoDB & Redis
+  - Serverless & GraphQL
+- Secondary
+  - Python & FastAPI
+  - WeChat Mini App
 
 ## :sparkles: Fun Facts
 
