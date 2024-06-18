@@ -1,6 +1,6 @@
 [![👋 Hi there!](./banner.png)](https://twitter.com/captnotes)
 
-## :man_technologist_tone1: About Me
+## 👨🏻‍💻 About Me
 
 As a seasoned software developer with almost 20 years of experience (since 2006), I'm now serving the industry as a freelance expert with a passion for problem-solving. I'm an award-winning software developer who takes pride in delivering high-quality and timely performance results and helping my clients WIN.
 
