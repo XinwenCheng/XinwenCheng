@@ -33,6 +33,7 @@ Well, here's a more in-depth overview of my skills and expertise:
 
 - Primary
   - React & Next.js
+  - Astro
   - Vue.js & Nuxt
   - Express & Node.js
   - NPM Packages
