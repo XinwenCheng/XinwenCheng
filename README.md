@@ -27,7 +27,7 @@ Well, here's a more in-depth overview of my skills and expertise:
 
 - [News on Kindle](https://newsonkindle.info): The easiest way to read news on your Kindle.
 - [Clear My List](https://clearmylist.io): The next-generation personal time management solution.
-- [Dynamic Ideas (coming soon)](https://dynamicideas.ai): The official website presents all of my indie hacking software products and services.
+- [Dynamic Ideas](https://dynamicideas.ai): The official website presents all of my indie hacking software products and services.
 
 ## :hammer_and_wrench: Current Tech Stack
 
