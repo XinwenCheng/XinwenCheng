@@ -32,15 +32,15 @@ Well, here's a more in-depth overview of my skills and expertise:
 ## :hammer_and_wrench: Current Tech Stack
 
 - Primary
-  - React & Next.js
+  - React & Next.js & React Native
   - Astro
   - Vue.js & Nuxt
   - Express & Node.js
   - NPM Packages
-  - Flutter & Mobile APP
   - MongoDB & Redis
   - Serverless & GraphQL
 - Secondary
+  - Flutter & Mobile APP
   - Python & FastAPI
   - WeChat Mini App
 
