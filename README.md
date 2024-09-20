@@ -58,7 +58,7 @@ Well, here's a more in-depth overview of my skills and expertise:
 
 <!-- <a href="https://app.daily.dev/captmichael"><img src="https://api.daily.dev/devcards/ec06c252421e46e78714a3afcecc65a6.png?r=deb" width="400" alt="Capt. Michael's Dev Card"/></a> -->
 
-<a href="https://app.daily.dev/captmichael"><img src="https://api.daily.dev/devcards/v2/NA8mSv4fLrDXJ0DNkfg61.png?r=q2o&type=wide" width="652" alt="Capt. Michael"/></a>
+<a href="https://app.daily.dev/captmichael"><img src="https://api.daily.dev/devcards/v2/NA8mSv4fLrDXJ0DNkfg61.png?type=wide&r=gvd" width="652" alt="Capt. Michael"/></a>
 
 <!-- Emoji icons: https://emojipedia.org -->
 <!-- Banner generator: https://fontmeme.com/text-generator -->
