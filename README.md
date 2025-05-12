@@ -14,8 +14,8 @@ Well, here's a more in-depth overview of my skills and expertise:
 - [Archived Blog (in Simplified Chinese)](https://captnotes.github.io) -->
 
 |                                      |                                                     |                                                 |                                                                  |                                                   |                                        |                                                                      |
-| ------------------------------------ | --------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------- | -------------------------------------- | -------------------------------------------------------------------- |
-| [Portfolio](https://CaptMichael.dev) | [LinkedIn](https://www.linkedin.com/in/XinwenCheng) | [Fiverr](https://www.fiverr.com/captmichaeldev) | [Upwork](https://www.upwork.com/freelancers/~01eed6a13d9b28ab5d) | [𝕏 / Twitter](https://twitter.com/CaptMichaelDev) | [Medium](https://captnotes.medium.com) | [Archived Blog (in Simplified Chinese)](https://captnotes.github.io) |
+| ------------------------------------ | --------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------- | -------------------------------------- |
+| [Portfolio](https://CaptMichael.dev) | [LinkedIn](https://www.linkedin.com/in/XinwenCheng) | [Fiverr](https://www.fiverr.com/captmichaeldev) | [Upwork](https://www.upwork.com/freelancers/~01eed6a13d9b28ab5d) | [𝕏 / Twitter](https://twitter.com/CaptMichaelDev) | [Medium](https://captnotes.medium.com) |
 
 <!-- ## :floppy_disk: GitHub Stats
 
