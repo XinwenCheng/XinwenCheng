@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 About Me
 
-As a seasoned software developer with almost 20 years of experience (since 2006), I'm now serving the industry as a freelance expert with a passion for problem-solving. I'm an award-winning software developer who takes pride in delivering high-quality and timely performance results and helping my clients WIN.
+As a seasoned software developer with 20 years of experience (since 2006), I'm now serving the industry as a freelance expert with a passion for problem-solving. I'm an award-winning software developer who takes pride in delivering high-quality and timely performance results and helping my clients WIN.
 
 Well, here's a more in-depth overview of my skills and expertise:
 
@@ -13,9 +13,9 @@ Well, here's a more in-depth overview of my skills and expertise:
 - [Medium](https://captnotes.medium.com)
 - [Archived Blog (in Simplified Chinese)](https://captnotes.github.io) -->
 
-|                                      |                                                     |                                                 |                                                                  |                                                   |                                        |
-| ------------------------------------ | --------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------- | -------------------------------------- |
-| [Portfolio](https://CaptMichael.dev) | [LinkedIn](https://www.linkedin.com/in/XinwenCheng) | [Fiverr](https://www.fiverr.com/captmichaeldev) | [Upwork](https://www.upwork.com/freelancers/~01eed6a13d9b28ab5d) | [𝕏 / Twitter](https://twitter.com/CaptMichaelDev) | [Medium](https://captnotes.medium.com) |
+|                                      |                                                     |                                                   |                                        |
+| ------------------------------------ | --------------------------------------------------- | ------------------------------------------------- | -------------------------------------- |
+| [𝕏 / Twitter](https://twitter.com/CaptMichaelDev) | [Portfolio](https://CaptMichael.dev) | [LinkedIn](https://www.linkedin.com/in/XinwenCheng) | [Medium](https://captnotes.medium.com) |
 
 <!-- ## :floppy_disk: GitHub Stats
 
@@ -25,21 +25,22 @@ Well, here's a more in-depth overview of my skills and expertise:
 
 ## :file_folder: Currently Working On
 
-- [News on Kindle](https://newsonkindle.info): The easiest way to read news on your Kindle.
-- [Clear My List](https://clearmylist.io): The next-generation personal time management solution.
-- [Dynamic Ideas](https://dynamicideas.ai): The official website presents all of my indie hacking software products and services.
+- [ESL Fiction](https://eslfiction.com): For non-native readers.
+- [Sum to Reader](https://sumtoreader.com): For Kindle readers.
+- [Get Target Resume](https://gettargetresume.com): For job seekers.
 
 ## :hammer_and_wrench: Current Tech Stack
 
 - Primary
-  - React & Next.js & React Native
+  - React & Next.js & Expo
   - Astro
-  - Vue.js & Nuxt
   - Express & Node.js
   - NPM Packages
   - MongoDB & Redis
   - Serverless & GraphQL
 - Secondary
+  - React Native
+  - Vue.js & Nuxt
   - Flutter
   - Python & FastAPI
   - WeChat Mini App
