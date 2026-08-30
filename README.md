@@ -2,48 +2,31 @@
 
 ## 👨🏻‍💻 About Me
 
-As a seasoned software developer with 20 years of experience (since 2006), I'm now serving the industry as a freelance expert with a passion for problem-solving. I'm an award-winning software developer who takes pride in delivering high-quality and timely performance results and helping my clients WIN.
+As a seasoned software developer with 20+ years of experience (since 2006), I am now the Founder of **[Hyperflow](https://hyperflow.sh)**. 
 
-Well, here's a more in-depth overview of my skills and expertise:
+At Hyperflow, we specialize in bringing intelligence to digital workflows and breaking efficiency bottlenecks. We automate the work you hate doing, connect disconnected systems, and accelerate business growth for our clients.
 
-<!-- - [Portfolio](https://CaptMichael.dev)
-- [Upwork](https://www.upwork.com/freelancers/~01eed6a13d9b28ab5d)
-- [LinkedIn](https://www.linkedin.com/in/XinwenCheng)
-- [𝕏 / Twitter](https://twitter.com/CaptMichaelDev)
-- [Medium](https://captnotes.medium.com)
-- [Archived Blog (in Simplified Chinese)](https://captnotes.github.io) -->
+**Find me on:** [𝕏 / Twitter](https://twitter.com/CaptMichaelDev) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/XinwenCheng)
 
-|                                      |                                                     |                                                   |                                        |
-| ------------------------------------ | --------------------------------------------------- | ------------------------------------------------- | -------------------------------------- |
-| [𝕏 / Twitter](https://twitter.com/CaptMichaelDev) | [Portfolio](https://CaptMichael.dev) | [LinkedIn](https://www.linkedin.com/in/XinwenCheng) | [Medium](https://captnotes.medium.com) |
+## :briefcase: Current Focus: Hyperflow
 
-<!-- ## :floppy_disk: GitHub Stats
+We provide clear solutions for real efficiency:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xinwencheng&show_icons=true&theme=github_dark)
+- **Automated Workflows & Integrations**: Eliminating double data entry and connecting your favorite apps.
+- **Local AI Summarization**: Secure, offline AI tools to instantly summarize endless documents without exposing sensitive data.
+- **Premium Business Websites**: Fast, modern, and high-conversion sites that serve as the powerful entrance for your AI-driven workflows.
+- **Custom Workflow Upgrades**: Upgrading systems to handle heavy lifting and specific operational bottlenecks.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xinwencheng&layout=pie&theme=github_dark) -->
+Learn more at [Hyperflow.sh](https://hyperflow.sh).
 
-## :file_folder: Currently Working On
+## :hammer_and_wrench: Tech Stack Empowering Our Solutions
 
-- [ESL Fiction](https://eslfiction.com): For non-native readers.
-- [Sum to Reader](https://sumtoreader.com): For Kindle readers.
-- [Get Target Resume](https://gettargetresume.com): For job seekers.
+We build robust, scalable, and intelligent systems using modern technologies:
 
-## :hammer_and_wrench: Current Tech Stack
-
-- Primary
-  - React & Next.js & Expo
-  - Astro
-  - Express & Node.js
-  - NPM Packages
-  - MongoDB & Redis
-  - Serverless & GraphQL
-- Secondary
-  - React Native
-  - Vue.js & Nuxt
-  - Flutter
-  - Python & FastAPI
-  - WeChat Mini App
+- **Core & Frontend**: React, Next.js, Astro, Vue.js, React Native
+- **Backend & APIs**: Node.js, Express, FastAPI, Serverless, GraphQL
+- **Data & AI**: MongoDB, Redis, Local LLMs, Custom AI Workflows
+- **Ecosystem**: NPM Packages, WeChat Mini App
 
 ## :sparkles: Fun Facts
 
@@ -56,8 +39,6 @@ Well, here's a more in-depth overview of my skills and expertise:
 - [Email](mailto:CaptMichaelDev@gmail.com?subject=Greeting%20from%20a%20GitHub%20user)
 
 ## 🎓 Me on Daily.Dev
-
-<!-- <a href="https://app.daily.dev/captmichael"><img src="https://api.daily.dev/devcards/ec06c252421e46e78714a3afcecc65a6.png?r=deb" width="400" alt="Capt. Michael's Dev Card"/></a> -->
 
 <a href="https://app.daily.dev/captmichael"><img src="https://api.daily.dev/devcards/v2/NA8mSv4fLrDXJ0DNkfg61.png?type=wide&r=5dt" width="652" alt="Capt. Michael"/></a>
 
