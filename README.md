@@ -4,12 +4,6 @@
 
 I build automation for small businesses: wiring their apps together, replacing manual data entry, and running AI on their own hardware when the data is too sensitive for the cloud.
 
-## 🏗️ What I'm building at Hyperflow
-
-- Offline apps with local AI
-- Cloud services & API integrations
-- Self-hosted deployments
-
 ## 🛠️ Tech Stack
 
 **Primary:** React · Next.js · Expo · Astro · Node.js · Express · MongoDB · PostgreSQL · Redis · Serverless · GraphQL<br>
