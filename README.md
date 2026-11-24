@@ -20,8 +20,7 @@ I build automation for small businesses: wiring their apps together, replacing m
 ## 🛠️ Tech Stack
 
 **Primary:** React · Next.js · Expo · Astro · Node.js · Express · MongoDB · Redis · Serverless · GraphQL<br>
-**Secondary:** React Native · Vue.js · Nuxt · Flutter · Python · FastAPI · WeChat Mini Programs<br>
-**Daily driver:** Claude Code
+**Secondary:** React Native · Vue.js · Nuxt · Flutter · Python · FastAPI · WeChat Mini Programs
 
 ---
 
