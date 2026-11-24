@@ -15,10 +15,6 @@ Founder of **[Hyperflow](https://hyperflow.sh/?utm_source=github&utm_medium=prof
 | Clients calling for status updates | Automated progress reports |
 | Hours spent reading contracts or case files | **Offline AI summarization** on your own computers; sensitive documents never leave the office |
 
-## 🤝 Work with me
-
-Building something similar and want a second pair of hands? [Let's talk](https://hyperflow.sh/?utm_source=github&utm_medium=profile&utm_content=partner).
-
 ---
 
 [𝕏 / Twitter](https://x.com/CaptMichaelDev) · [LinkedIn](https://www.linkedin.com/in/XinwenCheng) · [daily.dev](https://app.daily.dev/captmichael)
