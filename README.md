@@ -1,19 +1,32 @@
 [![Hyperflow — Automate your workflow](./banner.png)](https://hyperflow.sh/?utm_source=github&utm_medium=profile)
 
-### Hi, I'm Michael 👋 I help Toronto businesses stop doing work a computer should do.
+### Hi, I'm Michael 👋 Software engineer since 2006, now founder of [Hyperflow](https://hyperflow.sh/?utm_source=github&utm_medium=profile) in Toronto.
 
-Founder of **[Hyperflow](https://hyperflow.sh/?utm_source=github&utm_medium=profile)**. 20+ years of building software, now focused on one problem: the manual admin that eats your evenings.
+I build automation for small businesses: wiring their apps together, replacing manual data entry, and running AI on their own hardware when the data is too sensitive for the cloud.
 
-**Less manual work, more orders.** Trusted by 10+ businesses across the Greater Toronto Area.
+## 🧠 What I'm building at Hyperflow
 
-## 🔧 What I fix
+- **Workflow automation & system integration**: syncing data across email, spreadsheets, booking, invoicing and accounting tools so nothing gets typed twice.
+- **Local / offline AI**: document summarization that runs entirely on the client's own machines; contracts and case files never leave the office.
+- **Self-hosted & cloud infrastructure**: from single-machine apps to self-hosted deployments for clients who need full control of their data.
+- **Fast business websites**: the front door for all of the above.
 
-| If this sounds familiar… | …here's what we build |
-| --- | --- |
-| Copying data from emails to spreadsheets to invoices | Your apps connected, so data moves by itself |
-| Typing up estimates at night | Intake forms that generate proposals in seconds |
-| Clients calling for status updates | Automated progress reports |
-| Hours spent reading contracts or case files | **Offline AI summarization** on your own computers; sensitive documents never leave the office |
+## 🚀 Shipped
+
+- **[Sum to Reader](https://sumtoreader.com)**: turns web articles into AI-summarized ebooks for Kindle.
+- **[Get Target Resume](https://gettargetresume.com)**: one core resume, AI-tailored to every job application.
+- **[ESL Fiction](https://eslfiction.com)**: fiction for non-native English readers.
+
+## 🛠️ Tech Stack
+
+**Primary:** React · Next.js · Expo · Astro · Node.js · Express · MongoDB · Redis · Serverless · GraphQL<br>
+**Secondary:** React Native · Vue.js · Nuxt · Flutter · Python · FastAPI · WeChat Mini Programs<br>
+**Daily driver:** Claude Code
+
+## ✨ Fun Facts
+
+- Flying a Cirrus SR-20 has been a dream come true, and I'm on my way to becoming a certified jet pilot.
+- I studied at the Beijing Film Academy after watching 1,000+ movies; the count is now past 2,160.
 
 ---
 
