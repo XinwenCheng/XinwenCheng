@@ -6,8 +6,6 @@ Founder of **[Hyperflow](https://hyperflow.sh/?utm_source=github&utm_medium=prof
 
 **Less manual work, more orders.** Trusted by 10+ businesses across the Greater Toronto Area.
 
-👉 **[Book a 1-on-1 workflow consultation](https://hyperflow.sh/?utm_source=github&utm_medium=profile&utm_content=cta)**: we map your daily routine and find what to automate first.
-
 ## 🔧 What I fix
 
 | If this sounds familiar… | …here's what we build |
