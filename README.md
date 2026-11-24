@@ -6,16 +6,13 @@ I build automation for small businesses: wiring their apps together, replacing m
 
 ## 🧠 What I'm building at Hyperflow
 
-- **Workflow automation & system integration**: syncing data across email, spreadsheets, booking, invoicing and accounting tools so nothing gets typed twice.
-- **Local / offline AI**: document summarization that runs entirely on the client's own machines; contracts and case files never leave the office.
-- **Self-hosted & cloud infrastructure**: from single-machine apps to self-hosted deployments for clients who need full control of their data.
-- **Fast business websites**: the front door for all of the above.
+From a single offline app to a fully self-hosted deployment, each solution is matched to how sensitive the client's data is and how much infrastructure they actually need:
 
-## 🚀 Shipped
-
-- **[Sum to Reader](https://sumtoreader.com)**: turns web articles into AI-summarized ebooks for Kindle.
-- **[Get Target Resume](https://gettargetresume.com)**: one core resume, AI-tailored to every job application.
-- **[ESL Fiction](https://eslfiction.com)**: fiction for non-native English readers.
+- **Offline Compute Applications**: custom apps that run entirely on the client's own computer, such as local AI document summarization. No cloud servers, no external platforms, no internet connection required.
+- **Cloud Solutions**: managed, scalable services that connect external APIs, services and databases, with updates and maintenance handled for the client.
+- **Self-Hosted Solutions**: deployed to the client's own servers for 100% private data processing, strict compliance requirements, and no vendor lock-in.
+- **Premium Business Websites**: fast, SEO-optimized sites with managed hosting and security, serving as the front door for the automated workflows behind them.
+- **Workflow Consultation**: assessing existing processes and bottlenecks, then delivering an automation blueprint with estimated weekly hours saved.
 
 ## 🛠️ Tech Stack
 
