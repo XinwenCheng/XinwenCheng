@@ -1,27 +1,29 @@
-[![👋 Hi there!](./banner.png)](https://x.com/CaptMichaelDev)
+[![Hyperflow — Automate your workflow](./banner.png)](https://hyperflow.sh/?utm_source=github&utm_medium=profile)
 
-## 👨🏻‍💻 About Me
+### Hi, I'm Michael 👋 I help Toronto businesses stop doing work a computer should do.
 
-As a seasoned software developer with 20+ years of experience (since 2006), I am now the Founder of **[Hyperflow](https://hyperflow.sh)**. 
+Founder of **[Hyperflow](https://hyperflow.sh/?utm_source=github&utm_medium=profile)**. 20+ years of building software, now focused on one problem: the manual admin that eats your evenings.
 
-At Hyperflow, we specialize in bringing intelligence to digital workflows and breaking efficiency bottlenecks. We automate the work you hate doing, connect disconnected systems, and accelerate business growth for our clients.
+**Less manual work, more orders.** Trusted by 10+ businesses across the Greater Toronto Area.
 
-**Find me on:** [𝕏 / Twitter](https://x.com/CaptMichaelDev) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/XinwenCheng)
+👉 **[Book a 1-on-1 workflow consultation](https://hyperflow.sh/?utm_source=github&utm_medium=profile&utm_content=cta)**: we map your daily routine and find what to automate first.
 
-## :briefcase: Current Focus: Hyperflow
+## 🔧 What I fix
 
-We provide clear solutions for real efficiency:
+| If this sounds familiar… | …here's what we build |
+| --- | --- |
+| Copying data from emails to spreadsheets to invoices | Your apps connected, so data moves by itself |
+| Typing up estimates at night | Intake forms that generate proposals in seconds |
+| Clients calling for status updates | Automated progress reports |
+| Hours spent reading contracts or case files | **Offline AI summarization** on your own computers; sensitive documents never leave the office |
 
-- **Automated Workflows & Integrations**: Eliminating double data entry and connecting your favorite apps.
-- **Local AI Summarization**: Secure, offline AI tools to instantly summarize endless documents without exposing sensitive data.
-- **Premium Business Websites**: Fast, modern, and high-conversion sites that serve as the powerful entrance for your AI-driven workflows.
-- **Custom Workflow Upgrades**: Upgrading systems to handle heavy lifting and specific operational bottlenecks.
+## 🤝 Work with me
 
-Learn more at [Hyperflow.sh](https://hyperflow.sh).
+Building something similar and want a second pair of hands? [Let's talk](https://hyperflow.sh/?utm_source=github&utm_medium=profile&utm_content=partner).
 
-## 🎓 Me on Daily.Dev
+---
 
-<a href="https://app.daily.dev/captmichael"><img src="https://api.daily.dev/devcards/v2/NA8mSv4fLrDXJ0DNkfg61.png?type=wide&r=5dt" width="652" alt="Capt. Michael"/></a>
+[𝕏 / Twitter](https://x.com/CaptMichaelDev) · [LinkedIn](https://www.linkedin.com/in/XinwenCheng) · [daily.dev](https://app.daily.dev/captmichael)
 
 <!-- Emoji icons: https://emojipedia.org -->
 <!-- Banner generator: https://fontmeme.com/text-generator -->
