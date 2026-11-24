@@ -23,11 +23,6 @@ I build automation for small businesses: wiring their apps together, replacing m
 **Secondary:** React Native · Vue.js · Nuxt · Flutter · Python · FastAPI · WeChat Mini Programs<br>
 **Daily driver:** Claude Code
 
-## ✨ Fun Facts
-
-- Flying a Cirrus SR-20 has been a dream come true, and I'm on my way to becoming a certified jet pilot.
-- I studied at the Beijing Film Academy after watching 1,000+ movies; the count is now past 2,160.
-
 ---
 
 [𝕏 / Twitter](https://x.com/CaptMichaelDev) · [LinkedIn](https://www.linkedin.com/in/XinwenCheng) · [daily.dev](https://app.daily.dev/captmichael)
