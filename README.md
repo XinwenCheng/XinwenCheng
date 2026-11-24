@@ -2,8 +2,6 @@
 
 ### Hi, I'm Michael 👋 Software engineer since 2006, now founder of [Hyperflow](https://hyperflow.sh/?utm_source=github&utm_medium=profile) in Toronto.
 
-I build automation for small businesses: wiring their apps together, replacing manual data entry, and running AI on their own hardware when the data is too sensitive for the cloud.
-
 ## 🛠️ Tech Stack
 
 **Primary:** React · Next.js · Expo · Astro · Node.js · Express · MongoDB · PostgreSQL · Redis · Serverless · GraphQL<br>
